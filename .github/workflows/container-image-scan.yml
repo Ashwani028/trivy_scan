@@ -11,7 +11,7 @@ on:
 
 jobs:
   security_scan:
-    runs-on: DESKTOP-0NI9MBC 
+    runs-on: DESKTOP-0NI9MBC
 
     steps:
       - name: Checkout code

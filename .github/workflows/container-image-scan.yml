@@ -10,7 +10,7 @@ on:
 
 jobs:
   security_scan:
-    runs-on: self-hosted 
+    runs-on: DESKTOP-0NI9MBC 
 
     steps:
       - name: Checkout code

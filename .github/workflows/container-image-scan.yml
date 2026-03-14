@@ -1,5 +1,6 @@
 name: Container Image Vulnerability Scan
 
+
 on:
   push:
     branches:
